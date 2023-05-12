@@ -1,0 +1,1 @@
+In your terminal run the following command: ' python3 functions_practice.py '  
